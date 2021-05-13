@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-Atualmente está configurado para gerar uma imagem rabbitmq:latest com o plugin rabbitmq_delayed_message_exchange habilitado.
+Aqui você podera gerar sua imagem rabbitmq com o plugin rabbitmq_delayed_message_exchange habilitado. 
 
 Para gerar a imagem, basta rodar o comando: 
 
