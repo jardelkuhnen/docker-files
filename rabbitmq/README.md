@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to rabbitmq-generator-image 👋</h1>
+<h1 align="center">Welcome to rabbitmq-image-generator 👋</h1>
 <p>
 </p>
 
