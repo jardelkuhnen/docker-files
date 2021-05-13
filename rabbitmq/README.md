@@ -2,12 +2,22 @@
 <p>
 </p>
 
-> Dockerfile com arquivos de configuracao para personalizar sua imagem de rabbitmq
+> Dockerfile que irá gerar uma imagem de rabbitmq personalizara de acordo com as configurações definidas nos arquivos definitions.json, rabbitmq.conf e enabled_plugins  
 
 ## Install
 
 ```sh
-docker-compose up -d
+Atualmente está configurado para gerar uma imagem rabbitmq:latest com o plugin rabbitmq_delayed_message_exchange habilitado.
+
+Para gerar a imagem, basta rodar o comando: 
+
+> docker build -t tag-sua-imagem .
+
+Após imagem gerada basta utilzar o compose para subir localmente:
+
+> docker-compose up -d
+
+Of Course, para que rode o docker compose, você precise estar com uma instancia do docker rodando!
 ```
 
 ## Author
