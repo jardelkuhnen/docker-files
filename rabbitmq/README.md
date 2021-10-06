@@ -24,7 +24,7 @@ Of Course, para que rode o docker compose, você precise estar com uma instancia
 
 👤 **Jardel Back Kuhnen**
 
-* Website: https://www.linkedin.com/in/jardel-back-kuhnen-702807a1/
+* Website: https://www.linkedin.com/in/jardelkuhnen/
 * Github: [@jardelkuhnen](https://github.com/jardelkuhnen)
 
 ## Show your support
